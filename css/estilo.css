@@ -16,3 +16,9 @@
 	display: block;
 	margin-top: 2em;
 }
+p{
+ color: grey;
+}
+body{
+	background-color: lightblue;
+}
